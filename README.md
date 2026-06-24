@@ -4,6 +4,12 @@ Piattaforma di web-mapping interattiva per l'analisi spaziale del disagio socio-
 
 ---
 
+## 🗺️ Mappa interattiva
+
+👉 [Visualizza la mappa](https://sportbusinesslabconsultancy.github.io/Analisi-Disagio-Socioeconomico-Italiano/Mappa%20disagio%20socio-eco.html)
+
+---
+
 ## 📌 Descrizione
 
 Il progetto esplora la relazione spaziale tra le condizioni socio-economiche delle popolazioni urbane italiane e la localizzazione delle grandi infrastrutture sportive, assumendo gli stadi come elemento di osservazione privilegiato per indagare il rapporto tra impianti di rilevanza pubblica e contesti territoriali caratterizzati da diversi livelli di disagio.
